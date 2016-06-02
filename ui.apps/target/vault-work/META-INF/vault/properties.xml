@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>SimpleAEM - UI apps</comment>
+<entry key="createdBy">vladislav.borisov</entry>
+<entry key="name">simple.ui.apps</entry>
+<entry key="created">2016-06-02T16:44:23.870+0300</entry>
+<entry key="groupId">com.sherybedrock</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">SimpleAEM Content Package</entry>
+<entry key="description">UI apps package for SimpleAEM</entry>
+<entry key="artifactId">simple.ui.apps</entry>
+<entry key="path">/etc/packages/SimpleAEM Content Package/simple.ui.apps.zip</entry>
+</properties>
